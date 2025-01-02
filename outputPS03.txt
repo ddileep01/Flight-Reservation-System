@@ -1,0 +1,40 @@
+ADDED:FL1001-Mumbai to Bangalore
+UNBOOKED:FL1001-Mumbai to Bangalore
+BOOKED:FL1001-Mumbai to Bangalore
+FLIGHT STATUS:
+--------------------------------------------------
+FL1001 Mumbai to Bangalore - Booked
+--------------------------------------------------
+SEARCHED:Mumbai to Bangalore
+----------------------------FL1001-Mumbai to Bangalore
+REMOVED:FL1001-Mumbai to Bangalore
+ADDED:FL1002-Bangalore to Hyderabad
+UNBOOKED:FL1002-Bangalore to Hyderabad
+BOOKED:FL1002-Bangalore to Hyderabad
+FLIGHT STATUS:
+--------------------------------------------------
+FL1002 Bangalore to Hyderabad - Booked
+--------------------------------------------------
+SEARCHED:Bangalore to Hyderabad
+----------------------------FL1002-Bangalore to Hyderabad
+REMOVED:FL1002-Bangalore to Hyderabad
+ADDED:FL1003-New York to Paris
+ADDED:FL1004-New York to Paris
+ADDED:FL1005-London to Tokyo
+ADDED:FL1006-Mumbai to Pune
+ADDED:FL1007-Mumbai to Delhi
+ADDED:FL1008-San Francisco to Sydney
+UNBOOKED:FL1003-New York to Paris
+REMOVED:FL1008-San Francisco to Sydney
+SEARCHED:London
+----------------------------FL1005-London to Tokyo
+ADDED:FL1009-Tokyo to Bangkok
+SEARCHED:1002
+No flights found
+----------------------------
+SEARCHED:1003
+----------------------------FL1003-New York to Paris
+SEARCHED:1004
+----------------------------FL1004-New York to Paris
+SEARCHED:1005
+----------------------------FL1005-London to Tokyo

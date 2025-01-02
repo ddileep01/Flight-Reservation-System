@@ -1,0 +1,26 @@
+Add a Flight: Mumbai to Bangalore
+Mark Available: Mumbai to Bangalore
+Mark Booked: Mumbai to Bangalore
+Flight Status: Mumbai to Bangalore
+Search Flight: Mumbai to Bangalore
+Remove Flight: Mumbai to Bangalore
+Add a Flight: Bangalore to Hyderabad
+Mark Available: Bangalore to Hyderabad
+Mark Booked: Bangalore to Hyderabad
+Flight Status: Bangalore to Hyderabad
+Search Flight: Bangalore to Hyderabad
+Remove Flight: Bangalore to Hyderabad
+Add a Flight: New York to Paris
+Add a Flight: New York to Paris
+Add a Flight: London to Tokyo
+Add a Flight: Mumbai to Pune
+Add a Flight: Mumbai to Delhi
+Add a Flight: San Francisco to Sydney
+Mark Available: New York to Paris
+Remove Flight: San Francisco to Sydney
+Search Flight: London
+Add a Flight: Tokyo to Bangkok
+Search Flight: 1002
+Search Flight: 1003
+Search Flight: 1004
+Search Flight: 1005
